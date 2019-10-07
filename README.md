@@ -1,1 +1,1 @@
-Multivariate INLA contains R code for Integrated nested Laplace approximation inference of multivariate mixed model  presented in Mathew et al. (2016; Theoretical and Applied Genetics) https://link.springer.com/article/10.1007%2Fs00122-015-2622-x
+Multivariate INLA contains R code for Integrated nested Laplace approximation inference of multivariate mixed model  presented in Mathew et al. (2016; Theoretical and Applied Genetics):: https://link.springer.com/article/10.1007%2Fs00122-015-2622-x
